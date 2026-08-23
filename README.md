@@ -30,11 +30,14 @@ Self-taught automation & bot builder from **Indonesia** 🇮🇩. I like turning
 
 ---
 
-## 📌 pinned
+## 📌 featured
 
-| | |
-|:---|:---|
-| <a href="https://github.com/SyncJax/tokenharbour-farm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SyncJax&repo=tokenharbour-farm&theme=tokyonight&hide_border=true&show_owner=false" /></a> | **TokenHarbour Farm** — CLI all-in-one: farm akun, verifikasi email, cek API key, import ke 9router, enable free models |
+### [🔗 TokenHarbour Farm](https://github.com/SyncJax/tokenharbour-farm)
+
+> CLI all-in-one: farm akun, verifikasi email, cek API key, import ke 9router, enable free models.
+
+[![Stars](https://img.shields.io/github/stars/SyncJax/tokenharbour-farm?style=for-the-badge&logo=github&color=22d3ee)](https://github.com/SyncJax/tokenharbour-farm)
+[![Language](https://img.shields.io/github/languages/top/SyncJax/tokenharbour-farm?style=for-the-badge&logo=python&color=3776AB)](https://github.com/SyncJax/tokenharbour-farm)
 
 ---
 
