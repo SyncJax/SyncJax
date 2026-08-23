@@ -41,8 +41,12 @@ Self-taught automation & bot builder from **Indonesia** 🇮🇩. I like turning
 ## 📊 stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SyncJax&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyncJax&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SyncJax&theme=tokyonight" alt="profile details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SyncJax&theme=tokyonight" alt="repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SyncJax&theme=tokyonight" alt="most commit language" />
 </p>
 
 <p align="center">
