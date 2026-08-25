@@ -46,7 +46,7 @@ Linux/VPS     █████████████░░░░░░░░░
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SyncJax&bg_color=ffffff&color=2b2419&line=c2601d&point=c2601d&area=true&area_color=f7f2e7&hide_border=true" alt="activity graph" />
+  <img src="https://activity-graph-ren.vercel.app/graph?username=SyncJax&bg_color=ffffff&color=2b2419&line=c2601d&point=c2601d&area=true&area_color=f7f2e7&hide_border=true" alt="activity graph" />
 </p>
 
 <p align="center">
