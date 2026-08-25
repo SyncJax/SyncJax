@@ -65,8 +65,8 @@ Linux/VPS     █████████████░░░░░░░░░
 ### 📈 stats
 
 <p align="center">
-  <img height="165" src="https://readme-stats-ren.vercel.app/api?username=SyncJax&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
-  <img height="165" src="https://readme-stats-ren.vercel.app/api/top-langs/?username=SyncJax&layout=compact&theme=default&hide_border=true" alt="langs" />
+  <img height="165" src="https://readme-stats-ren.vercel.app/api?username=SyncJax&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&v=2" alt="stats" />
+  <img height="165" src="https://readme-stats-ren.vercel.app/api/top-langs/?username=SyncJax&layout=compact&hide_border=true&v=2" alt="langs" />
 </p>
 
 <p align="center">
