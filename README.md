@@ -68,7 +68,10 @@ Linux/VPS     █████████████░░░░░░░░░
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SyncJax&theme=github" alt="commits" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SyncJax&theme=github_dark&hide_border=true&locale=id" alt="streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SyncJax&theme=github" alt="productive time" />
+</p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SyncJax&theme=discord&no-frame=true&row=1&column=4" alt="trophy" /></a>
 </p>
 
 <p align="center">
