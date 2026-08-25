@@ -70,9 +70,7 @@ Linux/VPS     █████████████░░░░░░░░░
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SyncJax&theme=github" alt="productive time" />
 </p>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SyncJax&theme=discord&no-frame=true&row=1&column=4" alt="trophy" /></a>
-</p>
+> *"kalau bisa dikerjain malam ini, kenapa nunggu besok?"* — prinsip kerja gua
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SyncJax&style=for-the-badge&color=c2601d&abbreviated=true" alt="views" />
