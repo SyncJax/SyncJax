@@ -8,6 +8,8 @@
   <a href="https://instagram.com/rskl411_"><img src="https://img.shields.io/badge/ig-%40rskl411_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="wave" />
+
 ---
 
 ### ⚡ lagi ngapain aja
@@ -34,6 +36,8 @@
 <summary><b>📊 level skill</b> <i>(klik)</i></summary>
 <br>
 
+![](https://skillicons.dev/icons?i=python,flutter,html,css,js,linux,git,githubactions,nginx,docker&perline=10)
+
 ```text
 Python        ██████████████████░░░░  85%  bahasa utama
 Bot Telegram  ████████████████████░░  90%  paling sering
@@ -56,21 +60,29 @@ Linux/VPS     █████████████░░░░░░░░░
 
 <sub>⭐ kasih star kalau berguna — gratis kok 😄</sub>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
 
 ### 📈 stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SyncJax&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyncJax&layout=compact&theme=default&hide_border=true" alt="langs" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SyncJax/SyncJax/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SyncJax/SyncJax/output/github-snake.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/SyncJax/SyncJax/output/github-snake.svg" />
+  </picture>
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SyncJax&theme=github" alt="details" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SyncJax&theme=github" alt="langs" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SyncJax&theme=github" alt="commits" />
-</p>
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SyncJax&theme=github" alt="productive time" />
 </p>
-> *"kalau bisa dikerjain malam ini, kenapa nunggu besok?"* — prinsip kerja gua
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SyncJax&style=for-the-badge&color=c2601d&abbreviated=true" alt="views" />
