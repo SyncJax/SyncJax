@@ -6,11 +6,15 @@
   <a href="https://instagram.com/rskl411_"><img src="https://img.shields.io/badge/ig-%40rskl411_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="120" alt="wave" />
 
 ### ⚔️ arsenal
 
 ![](https://skillicons.dev/icons?i=python,flutter,html,css,js,linux,git,githubactions,nginx,docker&perline=10)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgU372azKqjEkbuc9Q/giphy.gif" width="380" alt="coding" />
+</p>
 
 <details>
 <summary><b>📊 skill level</b></summary>
@@ -36,7 +40,7 @@ Linux/VPS     █████████████░░░░░░░░░
 | 💰 | **Finance Manager** | offline-first expense tracker (Flutter) |
 | 📄 | [**rndsa.cyou**](https://rndsa.cyou) | hand-coded portfolio — single HTML file |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="90" alt="divider" />
 
 ### 📈 github stats
 
@@ -46,14 +50,14 @@ Linux/VPS     █████████████░░░░░░░░░
 </p>
 
 <p align="center">
-  <img src="https://activity-graph-ren.vercel.app/graph?username=SyncJax&theme=react-dark-custom&bg_color=ffffff&color=2b2419&line=c2601d&point=c2601d&area=true&area_color=f7f2e7&hide_border=true&custom_title=contribution%20history" alt="activity graph" />
+  <img height="180" src="https://activity-graph-ren.vercel.app/graph?username=SyncJax&theme=react-dark-custom&bg_color=ffffff&color=2b2419&line=c2601d&point=c2601d&area=true&area_color=f7f2e7&hide_border=true&custom_title=contribution%20history&v=4" alt="contribution history" />
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SyncJax/SyncJax/output/github-snake-dark.svg?v=3" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SyncJax/SyncJax/output/github-snake.svg?v=3" />
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SyncJax/SyncJax/output/github-snake.svg?v=3" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SyncJax/SyncJax/output/github-snake-dark.svg?v=5" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SyncJax/SyncJax/output/github-snake.svg?v=5" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SyncJax/SyncJax/output/github-snake.svg?v=5" />
   </picture>
 </p>
 
@@ -61,7 +65,9 @@ Linux/VPS     █████████████░░░░░░░░░
   <img height="140" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SyncJax&theme=github" alt="productive time" />
 </p>
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" alt="cat" />
+</p>
 
 ### 📊 live counters
 
