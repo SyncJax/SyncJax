@@ -1,53 +1,38 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c2601d,100:f7f2e7&height=180&section=header&text=Ren&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=bots%20%C2%B7%20apps%20%C2%B7%20things%20that%20actually%20work&descAlignY=55&descSize=18" width="100%" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=900&color=C2601D&center=true&vCenter=true&random=false&width=620&lines=Hi+%F0%9F%91%8B+I%27m+Ren;Telegram+bots+%E2%9C%A6+Flutter+apps+%E2%9C%A6+web+tools;Everything+hand-coded+%E2%9C%A6+tested+until+it+works)](https://rndsa.cyou)
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=900&color=C2601D&center=true&vCenter=true&random=false&width=560&lines=self-taught+developer+%F0%9F%87%AE%F0%9F%87%A9;telegram+bots+%E2%9C%A6+android+apps+%E2%9C%A6+web+tools;everything+hand-coded%2C+tested+until+it+works)](https://rndsa.cyou)
-
-</div>
-
-**hey, I'm Ren** — self-taught developer from Indonesia. I build Telegram bots,
-mobile apps & automation tools, everything hand-coded from scratch.
-Currently deep in **Python** & **Flutter**, shipping small tools that solve real problems.
+### 💻 about me
 
 - 🔨 **building** — TokenHarbour Farm, an account-farming CLI
 - 🌱 **learning** — Flutter animations & clean architecture
 - 💬 **ask me about** — Telegram bot API, Playwright automation, VPS setup
+- 📫 **reach me** — [Telegram @ZallPyx](https://t.me/ZallPyx) · IG **@rskl411_**
 
----
+### ⚡ tech stack
 
-<div align="center">
+<a href="https://python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+<a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></a>
+<a href="https://developer.mozilla.org"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+<a href="https://developer.mozilla.org"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
+<a href="https://js.org"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+<a href="https://kernel.org"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
+<a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+<a href="https://nginx.org"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /></a>
 
-### ⚔️ tech arsenal
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="80" alt="animated divider" />
 
-<a href="https://python.org"><img src="https://skillicons.dev/icons?i=python" /></a>
-<a href="https://flutter.dev"><img src="https://skillicons.dev/icons?i=flutter" /></a>
-<a href="https://developer.mozilla.org"><img src="https://skillicons.dev/icons?i=html" /></a>
-<a href="https://developer.mozilla.org"><img src="https://skillicons.dev/icons?i=css" /></a>
-<a href="https://js.org"><img src="https://skillicons.dev/icons?i=js" /></a>
-<a href="https://kernel.org"><img src="https://skillicons.dev/icons?i=linux" /></a>
-<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" /></a>
-<a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" /></a>
-<a href="https://nginx.org"><img src="https://skillicons.dev/icons?i=nginx" /></a>
-<a href="https://docker.com"><img src="https://skillicons.dev/icons?i=docker" /></a>
+# 📊 GitHub Stats:
 
-</div>
+![](https://readme-stats-ren.vercel.app/api?username=SyncJax&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&v=3)<br/>
+![](https://streak-stats.demolab.com/?user=SyncJax&hide_border=true&background=ffffff00&locale=en)<br/>
+![](https://readme-stats-ren.vercel.app/api/top-langs/?username=SyncJax&layout=compact&hide_border=true&theme=chartreuse-dark&v=3)
 
-<details>
-<summary><b>📊 skill level</b> <i>(expand)</i></summary>
-<br>
+![](https://activity-graph-ren.vercel.app/graph?username=SyncJax&bg_color=ffffff&color=2b2419&line=c2601d&point=c2601d&area=true&area_color=f7f2e7&hide_border=true&custom_title=contribution%20history&v=4)
 
-```text
-Telegram Bot  ████████████████████░░  90%   most shipped
-Python        ██████████████████░░░░  85%   main language
-HTML·CSS·JS   ██████████████░░░░░░░░  70%   fast simple sites
-Linux/VPS     █████████████░░░░░░░░░  65%   self-hosted 24/7
-Flutter       ████████████░░░░░░░░░░  60%   offline-first apps
-```
-
-</details>
-
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SyncJax/SyncJax/output/github-snake-dark.svg?v=7" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SyncJax/SyncJax/output/github-snake.svg?v=7" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SyncJax/SyncJax/output/github-snake.svg?v=7" width="90%" />
+</picture>
 
 ### 📌 featured projects
 
@@ -61,42 +46,18 @@ Flutter       ████████████░░░░░░░░░░
 
 <div align="center">
 
-### 📈 statistics
-
-<img height="160" src="https://readme-stats-ren.vercel.app/api?username=SyncJax&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default&v=3" alt="github stats" />
-<img height="160" src="https://readme-stats-ren.vercel.app/api/top-langs/?username=SyncJax&layout=compact&hide_border=true&theme=default&v=3" alt="top languages" />
-
-<img height="185" src="https://activity-graph-ren.vercel.app/graph?username=SyncJax&theme=react-dark-custom&bg_color=ffffff&color=2b2419&line=c2601d&point=c2601d&area=true&area_color=f7f2e7&hide_border=true&custom_title=contribution%20history&v=4" alt="contribution history" width="90%" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SyncJax/SyncJax/output/github-snake-dark.svg?v=6" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SyncJax/SyncJax/output/github-snake.svg?v=6" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SyncJax/SyncJax/output/github-snake.svg?v=6" width="90%" />
-</picture>
-
-<img height="140" src="https://streak-stats.demolab.com?user=SyncJax&hide_border=true&background=ffffff00&locale=en" alt="GitHub streak" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="random quote" width="420" />
 
 </div>
 
----
+# 👥 visitors
 
-<div align="center">
+![](https://komarev.com/ghpvc/?username=SyncJax&icon=Eye&color=c2601d)
 
 ### 🌐 connect with me
 
-<a href="https://t.me/ZallPyx"><img src="https://img.shields.io/badge/Telegram-%40ZallPyx-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-<a href="https://instagram.com/rskl411_"><img src="https://img.shields.io/badge/Instagram-%40rskl411__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://rndsa.cyou"><img src="https://img.shields.io/badge/Web-rndsa.cyou-c2601d?style=for-the-badge&logo=about.me&logoColor=white" alt="Web" /></a>
+[![Telegram](https://img.shields.io/badge/Telegram-%40ZallPyx-26A5E4.svg?logo=telegram&logoColor=white)](https://t.me/ZallPyx)
+[![Instagram](https://img.shields.io/badge/Instagram-%40rskl411__-E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/rskl411_)
+[![Web](https://img.shields.io/badge/Web-rndsa.cyou-c2601d.svg?logo=about.me&logoColor=white)](https://rndsa.cyou)
 
-</div>
-
-<br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SyncJax&style=flat-square&color=c2601d&abbreviated=true" alt="Profile views" />&nbsp;
-  <img src="https://img.shields.io/github/followers/SyncJax?style=flat-square&color=c2601d" alt="Followers" />&nbsp;
-  <img src="https://img.shields.io/github/stars/SyncJax?affiliations=OWNER&style=flat-square&color=c2601d" alt="Stars" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7f2e7,100:c2601d&height=110&section=footer" width="100%" />
-
+<!-- rebuilt following GPRM structure ( https://gprm.itsvg.in ) -->
