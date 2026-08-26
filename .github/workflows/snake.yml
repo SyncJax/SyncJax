@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # tiap tengah malam UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -21,7 +21,7 @@ jobs:
           github_user_name: SyncJax
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#c2601d&color_dots=#ebedf0,#8b949e,#c2601d,#a34a15,#c2601d
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#E63946&color_dots=#ebedf0,#8b949e,#E63946,#a31a1a,#E63946
 
       - name: Push ke branch output
         uses: crazy-max/ghaction-github-pages@v4
