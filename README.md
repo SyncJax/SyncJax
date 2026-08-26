@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=900&color=C2601D&center=true&vCenter=true&random=false&width=620&lines=Hi+%F0%9F%91%8B+I%27m+Ren;Telegram+bots+%E2%9C%A6+Flutter+apps+%E2%9C%A6+web+tools;Everything+hand-coded+%E2%9C%A6+tested+until+it+works)](https://rndsa.cyou)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=900&color=E63946&center=true&vCenter=true&random=false&width=620&lines=Hi+%F0%9F%91%8B+I%27m+Ren;Telegram+bots+%E2%9C%A6+Flutter+apps+%E2%9C%A6+web+tools;Everything+hand-coded+%E2%9C%A6+tested+until+it+works)](https://rndsa.cyou)
 
 ### 💻 about me
 
@@ -22,16 +22,16 @@
 
 # 📊 GitHub Stats:
 
-![](https://readme-stats-ren.vercel.app/api?username=SyncJax&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&v=3)<br/>
-![](https://streak-stats.demolab.com/?user=SyncJax&hide_border=true&background=ffffff00&locale=en)<br/>
-![](https://readme-stats-ren.vercel.app/api/top-langs/?username=SyncJax&layout=compact&hide_border=true&theme=chartreuse-dark&v=3)
+![](https://readme-stats-ren.vercel.app/api?username=SyncJax&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=vue&v=5)<br/>
+![](https://streak-stats.demolab.com/?user=SyncJax&hide_border=true&background=ffffff00&locale=en&ring=E63946&fire=E63946&currStreakNum=E63946&sideNums=E63946)<br/>
+![](https://readme-stats-ren.vercel.app/api/top-langs/?username=SyncJax&layout=compact&hide_border=true&theme=vue&v=5)
 
-![](https://activity-graph-ren.vercel.app/graph?username=SyncJax&bg_color=ffffff&color=2b2419&line=c2601d&point=c2601d&area=true&area_color=f7f2e7&hide_border=true&custom_title=contribution%20history&v=4)
+![](https://activity-graph-ren.vercel.app/graph?username=SyncJax&bg_color=ffffff&color=2b2419&line=E63946&point=E63946&area=true&area_color=ffe5e5&hide_border=true&custom_title=contribution%20history&v=6)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SyncJax/SyncJax/output/github-snake-dark.svg?v=7" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SyncJax/SyncJax/output/github-snake.svg?v=7" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SyncJax/SyncJax/output/github-snake.svg?v=7" width="90%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SyncJax/SyncJax/output/github-snake-dark.svg?v=10" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SyncJax/SyncJax/output/github-snake.svg?v=10" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SyncJax/SyncJax/output/github-snake.svg?v=10" width="90%" />
 </picture>
 
 ### 📌 featured projects
@@ -42,7 +42,7 @@
 | 💰 | **Finance Manager** | offline-first expense tracker built with Flutter |
 | 📄 | [**rndsa.cyou**](https://rndsa.cyou) | hand-coded portfolio — a single HTML file |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="80" alt="divider" />
 
 <div align="center">
 
@@ -52,12 +52,18 @@
 
 # 👥 visitors
 
-![](https://komarev.com/ghpvc/?username=SyncJax&icon=Eye&color=c2601d)
+![](https://komarev.com/ghpvc/?username=SyncJax&icon=Eye&color=E63946)
 
 ### 🌐 connect with me
 
-[![Telegram](https://img.shields.io/badge/Telegram-%40ZallPyx-26A5E4.svg?logo=telegram&logoColor=white)](https://t.me/ZallPyx)
-[![Instagram](https://img.shields.io/badge/Instagram-%40rskl411__-E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/rskl411_)
-[![Web](https://img.shields.io/badge/Web-rndsa.cyou-c2601d.svg?logo=about.me&logoColor=white)](https://rndsa.cyou)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="90" alt="wave" />
+</p>
 
-<!-- GPRM-style clean profile -->
+<p align="center">
+  <a href="https://t.me/ZallPyx"><img src="https://img.shields.io/badge/Telegram-%40ZallPyx-E63946.svg?logo=telegram&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://instagram.com/rskl411_"><img src="https://img.shields.io/badge/Instagram-%40rskl411__-E63946.svg?logo=instagram&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://rndsa.cyou"><img src="https://img.shields.io/badge/Web-rndsa.cyou-E63946.svg?logo=about.me&logoColor=white&style=for-the-badge" /></a>
+</p>
+
+<!-- red theme + animated sections -->
