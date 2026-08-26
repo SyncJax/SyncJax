@@ -1,10 +1,18 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c2601d,100:f7f2e7&height=180&section=header&text=Ren&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=bots%20·%20apps%20·%20things%20that%20actually%20work&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c2601d,100:f7f2e7&height=180&section=header&text=Ren&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=bots%20%C2%B7%20apps%20%C2%B7%20things%20that%20actually%20work&descAlignY=55&descSize=18" width="100%" />
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=900&color=C2601D&center=true&vCenter=true&random=false&width=560&lines=self-taught+developer+%F0%9F%87%AE%F0%9F%87%A9;telegram+bots+%E2%9C%A6+android+apps+%E2%9C%A6+web+tools;everything+hand-coded%2C+tested+until+it+works)](https://rndsa.cyou)
 
 </div>
+
+**hey, I'm Ren** — self-taught developer from Indonesia. I build Telegram bots,
+mobile apps & automation tools, everything hand-coded from scratch.
+Currently deep in **Python** & **Flutter**, shipping small tools that solve real problems.
+
+- 🔨 **building** — TokenHarbour Farm, an account-farming CLI
+- 🌱 **learning** — Flutter animations & clean architecture
+- 💬 **ask me about** — Telegram bot API, Playwright automation, VPS setup
 
 ---
 
